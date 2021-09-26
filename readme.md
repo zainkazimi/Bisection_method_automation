@@ -1,0 +1,3 @@
+# Bisection Method
+
+We were studying numerical analysis in EM-II in our 2nd semester and had gotten a lengthy homework assignment with questions from bisection method. The questions were simple enough but long and tedious to carry out as they required a lot of steps and numerical calculations, so I implemented the algorithm in a C++ code and had it print out all of the answers for me. It was a fun and time efficient way to both understand the concept and complete my work.
